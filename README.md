@@ -63,6 +63,6 @@ jobs:
           publish_dir: ./public
 ```
 
-- 将 `config.toml` 中的 `default language` 改为 `zh` （不能用 `zh-Hans` ！）
+- 将 `config.toml` 中的 `default_language` 改为 `zh` （不能用 `zh-Hans` ！）
 
 
